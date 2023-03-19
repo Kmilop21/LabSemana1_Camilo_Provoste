@@ -1,0 +1,15 @@
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\bin\Debug\net6.0\labsemana1_ejercicio6.exe
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\bin\Debug\net6.0\labsemana1_ejercicio6.deps.json
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\bin\Debug\net6.0\labsemana1_ejercicio6.runtimeconfig.json
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\bin\Debug\net6.0\labsemana1_ejercicio6.dll
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\bin\Debug\net6.0\labsemana1_ejercicio6.pdb
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.csproj.AssemblyReference.cache
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.AssemblyInfoInputs.cache
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.AssemblyInfo.cs
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.csproj.CoreCompileInputs.cache
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.dll
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\refint\labsemana1_ejercicio6.dll
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.pdb
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\labsemana1_ejercicio6.genruntimeconfig.cache
+D:\Desktop\Laboratorio1\labsemana1_ejercicio6\obj\Debug\net6.0\ref\labsemana1_ejercicio6.dll
